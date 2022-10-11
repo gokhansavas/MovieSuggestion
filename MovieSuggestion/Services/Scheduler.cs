@@ -17,7 +17,7 @@ namespace MovieSuggestion.Services
 
         public async Task Execute(IJobExecutionContext context)
         {
-            //await _movieService.CheckAndUpdateMovieList();
+            await _movieService.CheckAndUpdateMovieList();
         }
     }
 }
