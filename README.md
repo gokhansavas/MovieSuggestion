@@ -7,6 +7,9 @@ Film tablosu boşaltılmıştır, Job aracılığıyla TMDB üzerinden her saat 
 User ve MovieScore bilgilerini SQL'den silebilirsiniz, API'ler üzerinden kendiniz oluşturabilirsiniz.
 
 
+[Movie Suggestion API Document.pdf] API dokümantasyonunu takip ediniz.
+
+
 Kullandığım teknolojiler:
 
 - .NET Core (5.0)
